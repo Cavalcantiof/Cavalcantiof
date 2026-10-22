@@ -88,7 +88,7 @@ flowchart LR
 ### 📋 Nota de Conferência — Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,arduino,git,github,windows,vscode" />
 </div>
 <br/>
 
@@ -100,7 +100,8 @@ flowchart LR
 | 004 | GitHub Actions | ✔ | ✔ | 🟢 OK — este README prova |
 | 005 | Planilhas (pandas / openpyxl) | ✔ | ⏳ | 🟡 Em conferência |
 | 006 | Bots & web scraping (Selenium) | ✔ | ⏳ | 🟡 Em conferência |
-| 007 | APIs com FastAPI | ✔ | — | 🔴 Pendente |
+| 007 | Arduino | ✔ | ⏳ | 🟡 Em conferência |
+| 008 | APIs com FastAPI | ✔ | — | 🔴 Pendente |
 
 <sub>📦 Conferente: Samuel · Divergências serão corrigidas no próximo commit.</sub>
 
@@ -109,25 +110,18 @@ flowchart LR
 ### 🚀 Projetos em destaque
 
 <details open>
-<summary><b>📦 Sistema de Estoque para Mercadinho</b> — Python + MySQL</summary>
+<summary><b>🗂️ Organizador de Downloads</b> — Python</summary>
 <br/>
 
-Sistema de controle de estoque com perfis de **conferente** e **gerente**, nascido da minha experiência real em logística.
+Script que organiza automaticamente a pasta Downloads, movendo cada arquivo para uma subpasta de acordo com o tipo (Imagens, Documentos, Vídeos, Músicas...).
 
-- ✅ Cadastro e movimentação de produtos
-- ✅ Controle de acesso por perfil
-- 🔄 Relatórios automáticos *(em desenvolvimento)*
+- ✅ Classifica arquivos pela extensão
+- ✅ Nunca sobrescreve: nomes repetidos viram `arquivo (1).ext`
+- ✅ Ignora downloads em andamento (`.crdownload`, `.part`)
+- ✅ Pode rodar várias vezes sem bagunçar o que já foi organizado
+- ✅ No Windows, roda com dois cliques no `organizador.bat`
 
-🔗 [Ver repositório](https://github.com/Cavalcantiof/NOME_DO_REPO)
-</details>
-
-<details>
-<summary><b>🍺 Beer Exchange</b> — PDV interativo com preços dinâmicos</summary>
-<br/>
-
-PDV para bares onde os preços sobem e descem como na bolsa de valores, com acesso pelo cliente via **NFC na mesa**.
-
-🔗 [Ver repositório](https://github.com/Cavalcantiof/NOME_DO_REPO)
+🔗 [Ver repositório](https://github.com/Cavalcantiof/organizador-downloads)
 </details>
 
 <details>
@@ -170,8 +164,8 @@ Me conta qual processo manual te tira do sério. Talvez ele vire meu próximo pr
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samuelcavalcantiof"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:samuelcavalcantida@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
