@@ -48,12 +48,12 @@ diretriz_principal: "Se um humano precisa fazer a mesma coisa 3 vezes, um script
 <!--LAB:START-->
 ```text
 🧪 DIÁRIO DO LABORATÓRIO
-├── 🕒 última execução do robô: 20/11/2026 às 06:44 (Recife)
-├── 🐍 dias estudando Python: 142
+├── 🕒 última execução do robô: 21/11/2026 às 06:35 (Recife)
+├── 🐍 dias estudando Python: 143
 ├── 📦 projetos públicos: 1
 ├── 🔧 mexi recentemente em:
 │   └── organizador-downloads (Python) · 2026-10-22
-└── 💬 frase do dia: "Se dá pra fazer 3 vezes, dá pra automatizar."
+└── 💬 frase do dia: "Planilha manual é só um script que ainda não nasceu."
 ```
 <!--LAB:END-->
 
